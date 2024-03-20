@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Sheshan-Danuksha/Sheshan-Danuksha)
 <h1 align="center">Hi 👋, I'm Sheshan Danuksha</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" />
