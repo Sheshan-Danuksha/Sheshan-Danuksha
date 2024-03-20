@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshan-danuksha&label=Profile%20views&color=0e75b6&style=flat" alt="sheshan-danuksha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheshan-danuksha" alt="sheshan-danuksha" /></a> </p>
-
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,PHP**
 
 - 📫 How to reach me **sheshandanuksha19@gmail.com**
