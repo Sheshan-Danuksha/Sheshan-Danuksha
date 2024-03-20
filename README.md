@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheshan-danuksha-ba1b00273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheshan-danuksha-ba1b00273" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithme" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0hykKg0Z6qWs1bN51PR_RA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithme" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
