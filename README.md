@@ -1,8 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://github.com/Sheshan-Danuksha/Sheshan-Danuksha)
 <h1 align="center">Hi 👋, I'm Sheshan Danuksha</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="300" src="[CODE WITH ME logo](https://github.com/user-attachments/assets/c687f06f-9a3b-4890-a7bf-5c1ad7407afa)
-0372d70726f6772616d6d65722d312e676966" />
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/c687f06f-9a3b-4890-a7bf-5c1ad7407afa" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshan-danuksha&label=Profile%20views&color=0e75b6&style=flat" alt="sheshan-danuksha" /> </p>
 
