@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshan-danuksha&label=Profile%20views&color=0e75b6&style=flat" alt="sheshan-danuksha" /> </p>
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,PHP**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,PHP,JAVA**
 
 - 📫 How to reach me **sheshandanuksha19@gmail.com**
 
